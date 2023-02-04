@@ -5,7 +5,7 @@ export default {
     txAdminArgs: [
         '+set', 'txAdminDevMode', 'true',
         '+set', 'txAdminVerbose', 'true',
-        // '+set', 'txAdminPort', '40121',
+        // '+set', 'txAdminPort', '30120',
         // '--trace-warnings',
         
         //FIXME: broken
